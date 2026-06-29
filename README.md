@@ -66,3 +66,4 @@ Open [http://localhost:3000](http://localhost:3000)
 - Anthropic Claude AI
 - Vercel AI SDK
 # ui-generation
+# ui-generation
